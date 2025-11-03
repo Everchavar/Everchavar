@@ -15,6 +15,7 @@ Estudiante de ingenieria y redes informaticas me gusta un poco la electronica y 
   <a href="https://www.instagram.com/everchavezsk/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" 
   <a href="discordapp.com/users/muhammed_mgdi" target="blank"><img align="center" src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white"
  <a href="discordapp.com/users/muhammed_mgdi" target="blank"><img align="center" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"
+ ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
  
                                                                 
   </p>
