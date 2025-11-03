@@ -15,7 +15,8 @@ Estudiante de ingenieria y redes informaticas me gusta un poco la electronica y 
   <a href="https://www.facebook.com/everchavezsk" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" 
   <a href="https://www.instagram.com/everchavezsk/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" 
   <a href="discordapp.com/users/muhammed_mgdi" target="blank"><img align="center" src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white"
- <a href="discordapp.com/users/muhammed_mgdi" target="blank"><img align="center" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"                                                 
+ <a href="discordapp.com/users/muhammed_mgdi" target="blank"><img align="center" src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white
+                                                               
   </p>
   </div>
 <p align="center">
@@ -31,6 +32,11 @@ Estudiante de ingenieria y redes informaticas me gusta un poco la electronica y 
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
 
 <Br>
 </p>
